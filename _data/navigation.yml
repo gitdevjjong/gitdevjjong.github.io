@@ -2,8 +2,14 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "홈"
+    url: https://gitdevjjong.github.io/
+  - title: "카테고리"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "알고리즘(백준 - 자바)"
+    url: /categories/Algorithm/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
