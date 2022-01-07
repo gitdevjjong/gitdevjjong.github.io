@@ -10,6 +10,8 @@ main:
     url: /tags/
   - title: "알고리즘(백준 - 자바)"
     url: /categories/Algorithm/
+  - title: "자바 문법 정리"
+    url: /categories/Java/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
